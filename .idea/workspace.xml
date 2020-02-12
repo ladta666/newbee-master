@@ -22,6 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\无用\newbee-master (1)\newbee-master\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1XeuSP0GgIn07cKkkCQYMXCgWuQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -67,7 +74,7 @@
       <workItem from="1581420315096" duration="1485000" />
       <workItem from="1581422006578" duration="3000" />
       <workItem from="1581482229554" duration="2268000" />
-      <workItem from="1581486585183" duration="1091000" />
+      <workItem from="1581486585183" duration="1131000" />
     </task>
     <task id="LOCAL-00001" summary="my">
       <created>1581488516759</created>
@@ -76,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581488516759</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my">
+      <created>1581488647730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581488647730</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,10 +109,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1124" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581420655085" />
-    <state x="996" y="115" key="CommitChangelistDialog2" timestamp="1581488636641">
+    <state x="996" y="115" key="CommitChangelistDialog2" timestamp="1581489203810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="996" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581488636641" />
+    <state x="996" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581489203810" />
+    <state x="368" y="93" key="DiffContextDialog" timestamp="1581489198385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="93" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581489198385" />
     <state x="1161" y="279" key="FileChooserDialogImpl" timestamp="1581488425788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -107,6 +125,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="433" width="382" height="174" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581486336354" />
+    <state x="1151" y="232" key="RollbackChangesDialog" timestamp="1581489192923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1151" y="232" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581489192923" />
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1581420346650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
