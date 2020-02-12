@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5b5da4-62a0-4131-8dbf-31f2b41eef67" name="默认更改列表" comment="" />
+    <list default="true" id="0e5b5da4-62a0-4131-8dbf-31f2b41eef67" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XeuSP0GgIn07cKkkCQYMXCgWuQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,18 +67,38 @@
       <workItem from="1581420315096" duration="1485000" />
       <workItem from="1581422006578" duration="3000" />
       <workItem from="1581482229554" duration="2268000" />
-      <workItem from="1581486585183" duration="832000" />
+      <workItem from="1581486585183" duration="1091000" />
     </task>
+    <task id="LOCAL-00001" summary="my">
+      <created>1581488516759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581488516759</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my" />
+    <option name="LAST_COMMIT_MESSAGE" value="my" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="595" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581488625141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581488625141" />
     <state x="1124" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581420655085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1124" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581420655085" />
+    <state x="996" y="115" key="CommitChangelistDialog2" timestamp="1581488636641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="996" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581488636641" />
     <state x="1161" y="279" key="FileChooserDialogImpl" timestamp="1581488425788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -92,6 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="882" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581488366484" />
+    <state x="972" y="243" key="Vcs.Push.Dialog.v2" timestamp="1581488561221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="972" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581488561221" />
     <state x="1064" y="119" width="632" height="801" key="find.popup" timestamp="1581421204182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
