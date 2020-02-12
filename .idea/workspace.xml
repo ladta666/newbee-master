@@ -75,6 +75,7 @@
       <workItem from="1581422006578" duration="3000" />
       <workItem from="1581482229554" duration="2268000" />
       <workItem from="1581486585183" duration="1131000" />
+      <workItem from="1581489107276" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="my">
       <created>1581488516759</created>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581488647730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="my">
+      <created>1581489217374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581489217374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,30 +109,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="my" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="595" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581488625141">
+    <state x="595" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581489259964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="595" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581488625141" />
+    <state x="595" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581489259964" />
     <state x="1124" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581420655085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1124" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581420655085" />
-    <state x="996" y="115" key="CommitChangelistDialog2" timestamp="1581489203810">
+    <state x="996" y="115" key="CommitChangelistDialog2" timestamp="1581489216324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="996" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581489203810" />
+    <state x="996" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581489216324" />
     <state x="368" y="93" key="DiffContextDialog" timestamp="1581489198385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="93" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581489198385" />
-    <state x="1161" y="279" key="FileChooserDialogImpl" timestamp="1581488425788">
+    <state x="1161" y="279" key="FileChooserDialogImpl" timestamp="1581489254251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1161" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581488425788" />
+    <state x="1161" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581489254251" />
     <state x="1201" y="433" width="382" height="174" key="Github.CreateGistDialog" timestamp="1581486336354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="433" width="382" height="174" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581486336354" />
+    <state x="1373" y="409" key="Github.ShareDialog" timestamp="1581489383025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1373" y="409" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581489383025" />
     <state x="1151" y="232" key="RollbackChangesDialog" timestamp="1581489192923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -133,14 +145,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581420346650" />
-    <state x="882" y="166" key="SettingsEditor" timestamp="1581488366484">
+    <state x="882" y="166" key="SettingsEditor" timestamp="1581489245060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="882" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581488366484" />
-    <state x="972" y="243" key="Vcs.Push.Dialog.v2" timestamp="1581488561221">
+    <state x="882" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581489245060" />
+    <state x="972" y="243" key="Vcs.Push.Dialog.v2" timestamp="1581489233317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="972" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581488561221" />
+    <state x="972" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581489233317" />
+    <state x="1313" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581489353026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1313" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581489353026" />
     <state x="1064" y="119" width="632" height="801" key="find.popup" timestamp="1581421204182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
